@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114935977587",
+    "project_id": "store-app-cabf4",
+    "storage_bucket": "store-app-cabf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114935977587:android:0fe2e8cd6051e313bffc06",
+        "android_client_info": {
+          "package_name": "com.example.training"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkOnypjk7G3pG47-TYAAt_eBpwpiEIUmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
