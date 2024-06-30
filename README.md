@@ -1,4 +1,4 @@
-# training
+# Store App
 
 A new Flutter project.
 
